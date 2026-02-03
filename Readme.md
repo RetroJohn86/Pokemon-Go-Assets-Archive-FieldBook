@@ -10,7 +10,7 @@ As from the February 2026, the Download Size for this Repo is : **36.8 MB** ( Pl
 **+** __**Files and Folder Structure.**__
 
 **Images** **:**
-All images in this repo are found and mined and are located are organized based on category e.g. Tutorials and More.
+All images in this repo are found and mined and are located are organized based on category e.g. Landscapes ( Day ), Landscapes ( Night ), Tutorials and More.
 
 
 ## __**Disclaimer**__
